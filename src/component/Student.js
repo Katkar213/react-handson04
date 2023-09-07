@@ -29,35 +29,35 @@ function Student(){
                     <td>25</td>
                     <td>MERN</td>
                     <td>November</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
                 <tr>
                     <td>Ram</td>
                     <td>26</td>
                     <td>MERN</td>
                     <td>Deceber</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
                 <tr>
                     <td>Kunal</td>
                     <td>27</td>
                     <td>MERN</td>
                     <td>January</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
                 <tr>
                     <td>Jay</td>
                     <td>28</td>
                     <td>MERN</td>
                     <td>February</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
                 <tr>
                     <td>Jolly</td>
                     <td>29</td>
                     <td>MERN</td>
                     <td>March</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
 
             </tbody>
