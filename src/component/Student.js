@@ -22,7 +22,7 @@ function Student(){
                     <td>24</td>
                     <td>MERN</td>
                     <td>October</td>
-                    <td><a href="">Edit</a></td>
+                    <td><a href="#">Edit</a></td>
                 </tr>
                 <tr>
                     <td>Ketan</td>
